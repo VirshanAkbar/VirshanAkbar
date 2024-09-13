@@ -1,3 +1,4 @@
+<img src="banner.png"  alt="Profile Banner"  />
 <h2 align="center">About</h2>
 
 <p align="left">
