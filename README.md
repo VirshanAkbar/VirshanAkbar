@@ -6,14 +6,14 @@
 </p>
 
 <h2 align="center">Current Position</h2>
-<p align="left">
+<p align="center">
   📓 Student at Universitas Gadjah Mada<br>
   🔭 Researcher at Elins Research Club<br>
   🛰️ Electrician at Gadjah Mada Aerospace Team<br>
 </p>
 
 <h2 align="center">📚 Interests 🔬</h2>
-<p align="left">
+<p align="center">
   📊 Data Science<br>
   🤖 Artificial Intelligent<br>
   🧠 Machine Learning<br>
