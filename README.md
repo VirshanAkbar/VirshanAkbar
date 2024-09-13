@@ -1,5 +1,10 @@
 <h2 align="center">About</h2>
 
+<p align="left">
+  Hello! My name is <b>Virshan Akbar</b>, students from Electronics and Instrumentations, Universitas Gadjah Mada, D.I.Yogyakarta, Indonesia.
+</p>
+
+
 <!--
 **VirshanAkbar/VirshanAkbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
