@@ -1,4 +1,4 @@
-## About Me
+<h2 align="center">About</h2>
 
 <!--
 **VirshanAkbar/VirshanAkbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
