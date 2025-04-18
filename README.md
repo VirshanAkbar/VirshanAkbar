@@ -5,24 +5,19 @@
   Hello! My name is <b>Virshan Akbar</b>, students from Electronics and Instrumentations, Universitas Gadjah Mada, D.I.Yogyakarta, Indonesia 🇮🇩.
 </p>
 <p align="left">
-  My hobbies include playing video games 🎮, studying 📕, and looking at trading charts 📈. My goals is to become lecturer that research on cryptographic and blockchain topic 👨‍🏫. The road is still far ahead, that's why staying in confort zone is not an option. I must work hard and strive even further in order to reach my goal📍.
+  My hobbies include reading comic/manga 📖, studying 📕, and playing CTF 🚩. My goals is to become cryptography researcher and system penetration tester 👨‍🏫. The road is still far ahead, that's why staying in confort zone is not an option. I must work hard and strive even further in order to reach my goal📍.
 </p>
 
 <h2 align="center">👨‍💻 Current Position 👨‍💻</h2>
 <p align="center">
   📓 Student at Universitas Gadjah Mada<br>
-  🔭 Researcher at Elins Research Club<br>
-  🛰️ Electrician at Gadjah Mada Aerospace Team<br>
 </p>
 
-<h2 align="center">📚 Interests 🔬</h2>
+<h2 align="center">📚 Research Interests 🔬</h2>
 <p align="center">
-  📊 Data Science<br>
-  🤖 Artificial Intelligent<br>
-  🧠 Machine Learning<br>
-  ⛓ Blockchain Technology<br>
+  🔐 Cybersecurity<br>
   🖋️ Cryptography<br>
-  🔐 Cyber Security<br>
+  🧠 Machine Learning<br>
 </p>
 
 <h2 align="center">💻 Tech Stack 🖥️</h2>
